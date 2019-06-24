@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Background and Justification}{1}{section.1}
+\contentsline {section}{\numberline {2}Quarantine Facility}{2}{section.2}
+\contentsline {section}{\numberline {3}Standard Operating Procedures}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Compliance}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Transportation}{2}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Rearing conditions}{3}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Record keeping}{3}{subsection.3.4}
+\contentsline {section}{\numberline {4}Note on Risk}{4}{section.4}
+\contentsline {section}{\numberline {A}Expired Permit to Import Coconut Rhinoceros Beetles P526P-11-01844}{6}{appendix.A}
+\contentsline {section}{\numberline {B}Secure CRB Shipping Container}{13}{appendix.B}
